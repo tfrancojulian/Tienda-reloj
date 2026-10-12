@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "PATEK P PIEDRAS",
+    "cat": "Premium",
+    "sourcePrice": 58000,
+    "price": 136000,
+    "desc": "Reloj de estilo premium.",
+    "image": "",
+    "sourceUrl": "https://faustorelojes.com.ar/relojes"
+  },
+  {
+    "id": 2,
+    "name": "ROYAL POP NEGRO",
+    "cat": "Deportivo",
+    "sourcePrice": 26000,
+    "price": 72000,
+    "desc": "Reloj Royal Pop, color negro.",
+    "image": "",
+    "sourceUrl": "https://faustorelojes.com.ar/relojes"
+  },
+  {
+    "id": 3,
+    "name": "ROYAL POP BLANCO",
+    "cat": "Deportivo",
+    "sourcePrice": 26000,
+    "price": 72000,
+    "desc": "Reloj Royal Pop, color blanco.",
+    "image": "",
+    "sourceUrl": "https://faustorelojes.com.ar/relojes"
+  },
+  {
+    "id": 4,
+    "name": "MODELO 434",
+    "cat": "Acero",
+    "sourcePrice": 19000,
+    "price": 58000,
+    "desc": "Reloj de acero, modelo 434.",
+    "image": "",
+    "sourceUrl": "https://www.faustorelojes.com.ar/relojes/acero"
+  },
+  {
+    "id": 5,
+    "name": "MODELO 433",
+    "cat": "Acero",
+    "sourcePrice": 22000,
+    "price": 64000,
+    "desc": "Reloj de acero, modelo 433.",
+    "image": "",
+    "sourceUrl": "https://www.faustorelojes.com.ar/relojes/acero"
+  },
+  {
+    "id": 6,
+    "name": "RM 2000",
+    "cat": "Premium",
+    "sourcePrice": 55000,
+    "price": 130000,
+    "desc": "Máquina automática, cronógrafos funcionales, malla de silicona reforzada y hebilla de acero. Resistencia a salpicaduras y lluvia según ficha del proveedor.",
+    "image": "",
+    "sourceUrl": "https://www.faustorelojes.com.ar/relojes/gama-premium/rm-2000"
+  },
+  {
+    "id": 7,
+    "name": "C14",
+    "cat": "Casio",
+    "sourcePrice": 18000,
+    "price": 56000,
+    "desc": "Modelo C14. Consultá disponibilidad y detalles.",
+    "image": "",
+    "sourceUrl": "https://www.faustorelojes.com.ar/relojes/casio/c14"
+  },
+  {
+    "id": 8,
+    "name": "TOMI CUERO 988",
+    "cat": "Premium",
+    "sourcePrice": 21000,
+    "price": 62000,
+    "desc": "Caja de acero, correa de cuero con costuras, calendario y sumergible 15 m según ficha del proveedor.",
+    "image": "",
+    "sourceUrl": "https://www.faustorelojes.com.ar/relojes/gama-premium/tomi-cuero-988"
+  }
+]
